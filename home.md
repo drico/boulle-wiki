@@ -9,4 +9,5 @@ Le but de ce Wiki est de permettre aux élèves, ainsi qu'au corps enseignant, d
 Nous pourrons par exemple y inscrire les noms des outils d'atelier; leur fonction; leur utilisation; des listes d'ouvrages d'histoire de l'art; des listes de vocabulaire etc...
 
 # Sommaire
+* [Tutoriel](/tuto/page-wiki)
 
