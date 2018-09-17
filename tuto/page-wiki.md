@@ -106,7 +106,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 ```
 1. Premier élément de la liste
 1. autre élément
-   *. une sous liste ordonnée. 
+   * une sous liste. 
 1. Un 3ème élément (remarquez que le nombre que l'on écrit au début n'a pas besoin d'être le bon, il suffit de mettre un 1)
    1. Une sous liste ordonnée
    1. Un autre élément de la sous liste ordonnée
@@ -115,7 +115,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 1. Premier élément de la liste
 1. autre élément
-   *. une sous liste ordonnée. 
+   * une sous liste. 
 1. Un 3ème élément (remarquez que le nombre que l'on écrit au début n'a pas besoin d'être le bon, il suffit de mettre un 1)
    1. Une sous liste ordonnée
    1. Un autre élément de la sous liste ordonnée
@@ -192,11 +192,11 @@ On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 
 
-<pre lang="no-highlight"><code>```
+pre lang="no-highlight"code```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
 Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme.
 ```
-</code></pre>
+/code/pre
 
 
 
