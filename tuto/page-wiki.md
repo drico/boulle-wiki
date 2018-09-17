@@ -3,6 +3,23 @@
 
 Cet article décrit la procédure à suivre pour contribuer au Wiki.
 
+# Sommaire  
+[Créer une page](#creer_page)  
+[Modifier une page](#modifier_page)  
+[Rédiger une page](#rediger_page)  
+[Titres](#titres)  
+[Italique, gras, rayé](italique_gras_raye)  
+[Listes](#listes)  
+[Liens](#liens)  
+[Images](#images)  
+[Bloc de code](#bloc_de_code)  
+[Tableaux](#tableaux)  
+[Blocs de citations](#citations)  
+[Trait horizontal](#trait_horizontal)  
+[Saut de ligne](#saut_de_ligne)  
+[Vidéos YouTube](#videos)
+
+<a name="creer_page"/>
 # Créer une page
 Pour créer une page, rien de plus simple. Cliquez simplement sur le bouton `+CRÉER` qui est visible dans le bandeau en haut à droite du site.
 Il vous sera alors demandé d'entrer le nouveau "chemin de la page".
@@ -26,12 +43,14 @@ Une fois validé, vous serez redirigé vers la source de la page vide, c'est à 
 Garder une architecture claire est le seul moyen d'empêcher le projet de partir dans tous les sens ! Merci :)
 
 
+<a name="modifier_page"/>
 # Modifier une page
 
 Pour modifier une page, c'est également très simple, il suffit de cliquer sur le bouton `ÉDITER` qui est visible dans le bandeau en haut à droite du site.
 
 Une fois cliqué, vous serez redirigé vers la source de la page, c'est à dire que vous pourrez modifier le contenu.
 
+<a name="rediger_page"/>
 # Rédiger une page
 
 Cette partie la est plus compliquée. Effet, pour écrire une page de Wiki, il faut respecter une syntaxe très particulière appelée `Markdown`.
@@ -42,19 +61,6 @@ Pour vous entraîner, je vous recommande vivement d'aller sur le site [https://s
 
 Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe `Markdown` dont les règles princpiales sont expliquées ci-dessous :
 
-
-## Sommaire  
-[Titres](#titres)  
-[Italique, gras, rayé](italique_gras_raye)  
-[Listes](#listes)  
-[Liens](#liens)  
-[Images](#images)  
-[Bloc de code](#bloc_de_code)  
-[Tableaux](#tableaux)  
-[Blocs de citations](#citations)  
-[Trait horizontal](#trait_horizontal)  
-[Saut de ligne](#saut_de_ligne)  
-[Vidéos YouTube](#videos)
 
 <a name="titres"/>
 
