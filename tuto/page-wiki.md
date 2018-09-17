@@ -43,7 +43,7 @@ Pour vous entraîner, je vous recommande vivement d'aller sur le site [https://s
 Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe `Markdown` dont les règles princpiales sont expliquées ci-dessous :
 
 
-##### Sommaire  
+## Sommaire  
 [Titres](#titres)  
 [Italique, gras, rayé](italique_gras_raye)  
 [Listes](#listes)  
@@ -58,7 +58,7 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 
 <a name="titres"/>
 
-## Titres
+# Titres
 
 ```
 # Titre de niveau 1
@@ -78,7 +78,7 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 
 <a name="italique_gras_raye"/>
 
-## Italique, gras, rayé
+# Italique, gras, rayé
 
 ```
 Pour faire de l'italique, on met le texte entre *astérisques*.
@@ -101,7 +101,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 <a name="listes"/>
 
-## Listes
+# Listes
 
 ```
 1. Premier élément de la liste
@@ -123,7 +123,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 <a name="liens"/>
 
-## Liens
+# Liens
 
 Il y a plusieurs façon de faire un lien :
 
@@ -168,7 +168,7 @@ Du texte pour montrer que les lien de type référence peuvent suivre.
 
 <a name="images"/>
 
-## Images
+# Images
 
 ```
 Voici le logo de l'école Boulle (passer la souris dessus pour voir le texte):
@@ -184,7 +184,7 @@ Pour ajouter une image qui ne vient pas d'internet, vous pouvez utiliser les bou
 
 <a name="bloc_de_code"/>
 
-## Bloc de code
+# Bloc de code
 
 ```
 On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
@@ -207,7 +207,7 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 
 <a name="tableaux"/>
 
-## Tableaux
+# Tableaux
 
 
 ```
@@ -229,7 +229,7 @@ Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du
 
 <a name="citations"/>
 
-## Blocs de citations
+# Blocs de citations
 
 ```
 > Ceci est un bloc de citation.
@@ -249,7 +249,7 @@ Ceci est une pause dans la citation.
 
 <a name="trait_horizontal"/>
 
-## Trait horizontal
+# Trait horizontal
 
 ```
 Trois tirets ou plus... et une ligne apparaît !
@@ -262,7 +262,7 @@ Trois tirets ou plus... et une ligne apparaît !
 
 <a name="saut_de_ligne"/>
 
-## Saut de ligne
+# Saut de ligne
 
 Le mieux pour comprendre comment les sauts de ligne fonctionne, c'est d'essayer d'appuyer sur `Enter` plusieurs fois. Grosso modo, il faut faire deux sauts de ligne en `Markdown` pour faire un saut de ligne dans la page.
 
@@ -284,7 +284,7 @@ Cette ligne est seulement séparée par un seul saut de ligne. Elle sera donc co
 
 <a name="videos"/>
 
-## Vidéos YouTube
+# Vidéos YouTube
 
 On ne peut pas mettre directement de vidéo Youtube, mais on peut mettre une image avec un lien vers la vidéo comme ceci :
 
