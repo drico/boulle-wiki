@@ -203,6 +203,8 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 
 
 
+Ce qui nous donne
+
 ```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
 Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme.
