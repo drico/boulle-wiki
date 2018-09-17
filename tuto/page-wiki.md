@@ -22,6 +22,7 @@ Cet article décrit la procédure à suivre pour contribuer au Wiki.
 
 <a name="creer_page"/>
 # Créer une page
+
 Pour créer une page, rien de plus simple. Cliquez simplement sur le bouton `+CRÉER` qui est visible dans le bandeau en haut à droite du site.
 Il vous sera alors demandé d'entrer le nouveau "chemin de la page".
 Le chemin d'une page, ça ressemble à cela : 
@@ -50,6 +51,7 @@ Garder une architecture claire est le seul moyen d'empêcher le projet de partir
 Pour modifier une page, c'est également très simple, il suffit de cliquer sur le bouton `ÉDITER` qui est visible dans le bandeau en haut à droite du site.
 
 Une fois cliqué, vous serez redirigé vers la source de la page, c'est à dire que vous pourrez modifier le contenu.
+
 
 <a name="rediger_page"/>
 # Rédiger une page
