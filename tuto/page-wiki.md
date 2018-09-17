@@ -4,20 +4,21 @@
 Cet article décrit la procédure à suivre pour contribuer au Wiki.
 
 # Sommaire  
-[Créer une page](#creer_page)  
-[Modifier une page](#modifier_page)  
-[Rédiger une page](#rediger_page)  
-[Titres](#titres)  
-[Italique, gras, rayé](italique_gras_raye)  
-[Listes](#listes)  
-[Liens](#liens)  
-[Images](#images)  
-[Bloc de code](#bloc_de_code)  
-[Tableaux](#tableaux)  
-[Blocs de citations](#citations)  
-[Trait horizontal](#trait_horizontal)  
-[Saut de ligne](#saut_de_ligne)  
-[Vidéos YouTube](#videos)
+* [Créer une page](#creer_page)  
+* [Modifier une page](#modifier_page)  
+* [Rédiger une page](#rediger_page)  
+   * [Titres](#titres)  
+   * [Italique, gras, rayé](italique_gras_raye)  
+	 * [Listes](#listes)  
+	 * [Liens](#liens)  
+	 * [Images](#images)  
+	 * [Bloc de code](#bloc_de_code)  
+	 * [Tableaux](#tableaux)  
+	 * [Blocs de citations](#citations)  
+	 * [Trait horizontal](#trait_horizontal)  
+	 * [Saut de ligne](#saut_de_ligne)  
+	 * [Vidéos YouTube](#videos)
+
 
 <a name="creer_page"/>
 # Créer une page
