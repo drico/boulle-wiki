@@ -2,9 +2,27 @@
 <!-- SUBTITLE: Comment contribuer au Wiki -->
 
 Cet article décrit la procédure à suivre pour contribuer au Wiki.
-# Sommaire
+
+# Sommaire  
+* [Créer une page](#creer_page)
+* [Modifier une page](#modifier_page)
+* [Rédiger une page](#rediger_page)
+   * [Titres](#titres)
+   * [Italique, gras, rayé](italique_gras_raye)
+   * [Listes](#listes)
+   * [Liens](#liens)
+   * [Images](#images)
+   * [Bloc de code](#bloc_de_code)
+   * [Tableaux](#tableaux)
+   * [Blocs de citations](#citations)
+   * [Trait horizontal](#trait_horizontal)
+   * [Saut de ligne](#saut_de_ligne)
+   * [Vidéos YouTube](#videos)
+
+<a name="creer_page"/>
 
 # Créer une page
+
 Pour créer une page, rien de plus simple. Cliquez simplement sur le bouton `+CRÉER` qui est visible dans le bandeau en haut à droite du site.
 Il vous sera alors demandé d'entrer le nouveau "chemin de la page".
 Le chemin d'une page, ça ressemble à cela : 
@@ -27,11 +45,16 @@ Une fois validé, vous serez redirigé vers la source de la page vide, c'est à 
 Garder une architecture claire est le seul moyen d'empêcher le projet de partir dans tous les sens ! Merci :)
 
 
+<a name="modifier_page"/>
+
 # Modifier une page
 
 Pour modifier une page, c'est également très simple, il suffit de cliquer sur le bouton `ÉDITER` qui est visible dans le bandeau en haut à droite du site.
 
 Une fois cliqué, vous serez redirigé vers la source de la page, c'est à dire que vous pourrez modifier le contenu.
+
+
+<a name="rediger_page"/>
 
 # Rédiger une page
 
@@ -44,23 +67,9 @@ Pour vous entraîner, je vous recommande vivement d'aller sur le site [https://s
 Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe `Markdown` dont les règles princpiales sont expliquées ci-dessous :
 
 
-##### Sommaire  
-[Titres](#titres)  
-[Italique, gras, rayé](italique_gras_raye)  
-[Listes](#listes)  
-[Liens](#liens)  
-[Images](#images)  
-[Bloc de code](#bloc_de_code)  
-[Tableaux](#tableaux)  
-[Blocs de citations](#citations)  
-[HTML](#html)  
-[Trait horizontal](#trait_horizontal)  
-[Saut de ligne](#saut_de_ligne)  
-[Vidéos YouTube](#videos)
-
 <a name="titres"/>
 
-## Titres
+# Titres
 
 ```
 # Titre de niveau 1
@@ -72,6 +81,7 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 ```
 
 # Titre de niveau 1
+
 ## Titre de niveau 2
 ### Titre de niveau 3
 #### Titre de niveau 4
@@ -80,14 +90,14 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 
 <a name="italique_gras_raye"/>
 
-## Italique, gras, rayé
+# Italique, gras, rayé
 
 ```
 Pour faire de l'italique, on met le texte entre *astérisques*.
 
 Pour mettre en gras, on utilise des doubles **astérisques**.
 
-On peu combiner **gras et *italique***.
+On peut combiner **gras et *italique***.
 
 Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 ```
@@ -96,19 +106,19 @@ Pour faire de l'italique, on met le texte entre *astérisques*.
 
 Pour mettre en gras, on utilise des doubles **astérisques**.
 
-On peu combiner **gras et *italique***.
+On peut combiner **gras et *italique***.
 
 Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 
 <a name="listes"/>
 
-## Listes
+# Listes
 
 ```
 1. Premier élément de la liste
 1. autre élément
-   *. une sous liste ordonnée. 
+   * une sous liste. 
 1. Un 3ème élément (remarquez que le nombre que l'on écrit au début n'a pas besoin d'être le bon, il suffit de mettre un 1)
    1. Une sous liste ordonnée
    1. Un autre élément de la sous liste ordonnée
@@ -117,7 +127,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 1. Premier élément de la liste
 1. autre élément
-   *. une sous liste ordonnée. 
+   * une sous liste. 
 1. Un 3ème élément (remarquez que le nombre que l'on écrit au début n'a pas besoin d'être le bon, il suffit de mettre un 1)
    1. Une sous liste ordonnée
    1. Un autre élément de la sous liste ordonnée
@@ -125,7 +135,7 @@ Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
 <a name="liens"/>
 
-## Liens
+# Liens
 
 Il y a plusieurs façon de faire un lien :
 
@@ -138,9 +148,7 @@ Il y a plusieurs façon de faire un lien :
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peu utiliser des nombres pour les liens de type référence][1]
-
-Ou les laisser vide et utiliser le [lien lui même].
+[On peut utiliser des nombres pour les liens de type référence][1]
 
 Les URLS ou URLs entre chevrons sont automatiquement changés en liens.
 http://www.example.com ou <http://www.example.com>.
@@ -159,9 +167,7 @@ Du texte pour montrer que les lien de type référence peuvent suivre.
 
 [Je suis un lien relatif vers une page du wiki](/tuto/page-wiki)
 
-[On peu utiliser des nombres pour les liens de type référence][1]
-
-Ou les laisser vide et utiliser le [lien lui même].
+[On peut utiliser des nombres pour les liens de type référence][1]
 
 Les URLS ou URLs entre chevrons sont automatiquement changés en liens.
 http://www.exemple.com ou <http://www.exemple.com>.
@@ -174,7 +180,7 @@ Du texte pour montrer que les lien de type référence peuvent suivre.
 
 <a name="images"/>
 
-## Images
+# Images
 
 ```
 Voici le logo de l'école Boulle (passer la souris dessus pour voir le texte):
@@ -190,7 +196,7 @@ Pour ajouter une image qui ne vient pas d'internet, vous pouvez utiliser les bou
 
 <a name="bloc_de_code"/>
 
-## Bloc de code
+# Bloc de code
 
 ```
 On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
@@ -198,11 +204,18 @@ On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 
 
-<pre lang="no-highlight"><code>```
+<pre lang="no-highlight">
+<code>
+```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
 Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme.
 ```
-</code></pre>
+</code>
+</pre>
+
+
+
+Ce qui nous donne
 
 ```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
@@ -211,11 +224,10 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 
 <a name="tableaux"/>
 
-## Tableaux
-
+# Tableaux
 
 ```
-Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du `Markdown` dedans
+Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du `Markdown` dedans
 
 | Alingé à gauche | Centré | Alingé à droite |
 | --------------- |:------:| ---------------:|
@@ -223,7 +235,7 @@ Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du 
 | élément 2 | mot 2 | les |
 | ~~élément 3~~ | mot 3 | amis |
 ```
-Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du `Markdown` dans les cellules.
+Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du `Markdown` dans les cellules.
 
 | Alingé à gauche | Centré | Alingé à droite |
 | --------------- |:------:| ---------------:|
@@ -233,7 +245,7 @@ Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du 
 
 <a name="citations"/>
 
-## Blocs de citations
+# Blocs de citations
 
 ```
 > Ceci est un bloc de citation.
@@ -250,34 +262,10 @@ Ceci est une pause dans la citation.
 Ceci est une pause dans la citation.
 
 > Ceci est une très très longue ligne qui va tout de même s'affiche proprement comme une citation. Aller... pour s'assurer que la phrase soit suffisamment longue, j'écris du texte au hasard. Et en plus je peux mettre du `Markdown` dedans.
-
-<a name="html"/>
-
-## HTML
-
-Pour ceux qui connaîssent le language HTML, sachez que vous pouvez directement en mettre si besoin.
-
-```
-<dl>
-  <dt>Liste</dt>
-  <dd>élément 1.</dd>
-
-  <dt>Markdown dans du HTML</dt>
-  <dd>ça *ne* marche **pas très** bien. Utilisez plutôt des tags HTML comme <em>tags</em>.</dd>
-</dl>
-```
-
-<dl>
-  <dt>Liste</dt>
-  <dd>élément 1.</dd>
-
-  <dt>Markdown dans du HTML</dt>
-  <dd>ça *ne* marche **pas très** bien. Utilisez plutôt des tags HTML comme <em>tags</em>.</dd>
-</dl>
 
 <a name="trait_horizontal"/>
 
-## Trait horizontal
+# Trait horizontal
 
 ```
 Trois tirets ou plus... et une ligne apparaît !
@@ -290,7 +278,7 @@ Trois tirets ou plus... et une ligne apparaît !
 
 <a name="saut_de_ligne"/>
 
-## Saut de ligne
+# Saut de ligne
 
 Le mieux pour comprendre comment les sauts de ligne fonctionne, c'est d'essayer d'appuyer sur `Enter` plusieurs fois. Grosso modo, il faut faire deux sauts de ligne en `Markdown` pour faire un saut de ligne dans la page.
 
@@ -312,9 +300,9 @@ Cette ligne est seulement séparée par un seul saut de ligne. Elle sera donc co
 
 <a name="videos"/>
 
-## Vidéos YouTube
+# Vidéos YouTube
 
-On ne peut pas mettre directement de vidéo Youtube, mais on peu mettre une image avec un lien vers la vidéo comme ceci :
+On ne peut pas mettre directement de vidéo Youtube, mais on peut mettre une image avec un lien vers la vidéo comme ceci :
 
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IDENTIFIANT_DE_LA_VIDEO_YOUTUBE_ICI
