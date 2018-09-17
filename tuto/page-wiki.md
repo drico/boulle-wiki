@@ -192,12 +192,14 @@ On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 On peut mettre en valeur un `mot` en le mettant entre apostrophes inversées.
 
 
-pre lang="no-highlight"code
+<pre lang="no-highlight">
+<code>
 ```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
 Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme.
 ```
-/code/pre
+</code>
+</pre>
 
 
 
