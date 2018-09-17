@@ -22,7 +22,6 @@ Cet article décrit la procédure à suivre pour contribuer au Wiki.
 
 
 <a name="creer_page"/>
-
 # Créer une page
 
 Pour créer une page, rien de plus simple. Cliquez simplement sur le bouton `+CRÉER` qui est visible dans le bandeau en haut à droite du site.
