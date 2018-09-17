@@ -46,6 +46,7 @@ Garder une architecture claire est le seul moyen d'empêcher le projet de partir
 
 
 <a name="modifier_page"/>
+
 # Modifier une page
 
 Pour modifier une page, c'est également très simple, il suffit de cliquer sur le bouton `ÉDITER` qui est visible dans le bandeau en haut à droite du site.
@@ -54,6 +55,7 @@ Une fois cliqué, vous serez redirigé vers la source de la page, c'est à dire 
 
 
 <a name="rediger_page"/>
+
 # Rédiger une page
 
 Cette partie la est plus compliquée. Effet, pour écrire une page de Wiki, il faut respecter une syntaxe très particulière appelée `Markdown`.
@@ -79,6 +81,7 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 ```
 
 # Titre de niveau 1
+
 ## Titre de niveau 2
 ### Titre de niveau 3
 #### Titre de niveau 4
@@ -222,7 +225,6 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 <a name="tableaux"/>
 
 # Tableaux
-
 
 ```
 Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du `Markdown` dedans
