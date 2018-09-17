@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Comment contribuer au Wiki -->
 
 Cet article décrit la procédure à suivre pour contribuer au Wiki.
-# Sommaire
 
 # Créer une page
 Pour créer une page, rien de plus simple. Cliquez simplement sur le bouton `+CRÉER` qui est visible dans le bandeau en haut à droite du site.
@@ -53,7 +52,6 @@ Pour aller plus loin, il est tout de même nécéssaire de connaître la syntaxe
 [Bloc de code](#bloc_de_code)  
 [Tableaux](#tableaux)  
 [Blocs de citations](#citations)  
-[HTML](#html)  
 [Trait horizontal](#trait_horizontal)  
 [Saut de ligne](#saut_de_ligne)  
 [Vidéos YouTube](#videos)
@@ -87,7 +85,7 @@ Pour faire de l'italique, on met le texte entre *astérisques*.
 
 Pour mettre en gras, on utilise des doubles **astérisques**.
 
-On peu combiner **gras et *italique***.
+On peut combiner **gras et *italique***.
 
 Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 ```
@@ -96,7 +94,7 @@ Pour faire de l'italique, on met le texte entre *astérisques*.
 
 Pour mettre en gras, on utilise des doubles **astérisques**.
 
-On peu combiner **gras et *italique***.
+On peut combiner **gras et *italique***.
 
 Pour rayer le texte, on met le texte entre deux ~~tildes~~.
 
@@ -138,9 +136,7 @@ Il y a plusieurs façon de faire un lien :
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peu utiliser des nombres pour les liens de type référence][1]
-
-Ou les laisser vide et utiliser le [lien lui même].
+[On peut utiliser des nombres pour les liens de type référence][1]
 
 Les URLS ou URLs entre chevrons sont automatiquement changés en liens.
 http://www.example.com ou <http://www.example.com>.
@@ -159,9 +155,7 @@ Du texte pour montrer que les lien de type référence peuvent suivre.
 
 [Je suis un lien relatif vers une page du wiki](/tuto/page-wiki)
 
-[On peu utiliser des nombres pour les liens de type référence][1]
-
-Ou les laisser vide et utiliser le [lien lui même].
+[On peut utiliser des nombres pour les liens de type référence][1]
 
 Les URLS ou URLs entre chevrons sont automatiquement changés en liens.
 http://www.exemple.com ou <http://www.exemple.com>.
@@ -204,6 +198,8 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 ```
 </code></pre>
 
+
+
 ```
 On peut écrire un bloc de code en mettant 3 apostrophes inversées.
 Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme.
@@ -215,7 +211,7 @@ Dans un bloc de code, je peux écrire du *Markdown* sans qu'il soit mis en forme
 
 
 ```
-Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du `Markdown` dedans
+Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du `Markdown` dedans
 
 | Alingé à gauche | Centré | Alingé à droite |
 | --------------- |:------:| ---------------:|
@@ -223,7 +219,7 @@ Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du 
 | élément 2 | mot 2 | les |
 | ~~élément 3~~ | mot 3 | amis |
 ```
-Des `:` permettent de choisir l'alignement des colonnes. On peu aussi mettre du `Markdown` dans les cellules.
+Des `:` permettent de choisir l'alignement des colonnes. On peut aussi mettre du `Markdown` dans les cellules.
 
 | Alingé à gauche | Centré | Alingé à droite |
 | --------------- |:------:| ---------------:|
@@ -250,30 +246,6 @@ Ceci est une pause dans la citation.
 Ceci est une pause dans la citation.
 
 > Ceci est une très très longue ligne qui va tout de même s'affiche proprement comme une citation. Aller... pour s'assurer que la phrase soit suffisamment longue, j'écris du texte au hasard. Et en plus je peux mettre du `Markdown` dedans.
-
-<a name="html"/>
-
-## HTML
-
-Pour ceux qui connaîssent le language HTML, sachez que vous pouvez directement en mettre si besoin.
-
-```
-<dl>
-  <dt>Liste</dt>
-  <dd>élément 1.</dd>
-
-  <dt>Markdown dans du HTML</dt>
-  <dd>ça *ne* marche **pas très** bien. Utilisez plutôt des tags HTML comme <em>tags</em>.</dd>
-</dl>
-```
-
-<dl>
-  <dt>Liste</dt>
-  <dd>élément 1.</dd>
-
-  <dt>Markdown dans du HTML</dt>
-  <dd>ça *ne* marche **pas très** bien. Utilisez plutôt des tags HTML comme <em>tags</em>.</dd>
-</dl>
 
 <a name="trait_horizontal"/>
 
@@ -314,7 +286,7 @@ Cette ligne est seulement séparée par un seul saut de ligne. Elle sera donc co
 
 ## Vidéos YouTube
 
-On ne peut pas mettre directement de vidéo Youtube, mais on peu mettre une image avec un lien vers la vidéo comme ceci :
+On ne peut pas mettre directement de vidéo Youtube, mais on peut mettre une image avec un lien vers la vidéo comme ceci :
 
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IDENTIFIANT_DE_LA_VIDEO_YOUTUBE_ICI
