@@ -15,11 +15,11 @@ Pour contribuer à ce Wiki, veuillez consulter le [Tutoriel](/tuto/page-wiki). I
 
 # Sommaire
 * Cours
-		* [Atelier](cours/atelier)
-		* [Dessin à main levée](cours/dessin-a-main-levee)
-		* [Histoire de l'art](cours/histoire-de-l-art)
-		* [Technologie d'ébénisterie](cours/technologie-d-ebenisterie)
-		* [Mode Conventionnel de Représentation](cours/mode-conventionnel-de-representation)
+  * [Atelier](cours/atelier)
+  * [Dessin à main levée](cours/dessin-a-main-levee)
+  * [Histoire de l'art](cours/histoire-de-l-art)
+  * [Technologie d'ébénisterie](cours/technologie-d-ebenisterie)
+  * [Mode Conventionnel de Représentation](cours/mode-conventionnel-de-representation)
  
 
 
