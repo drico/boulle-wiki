@@ -1,9 +1,7 @@
 <!-- TITLE: Cours d'Histoire de l'Art -->
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
-# Cours d'Histoire de l'Art
-
-## Sommaire  
+# Sommaire
 * [Antiquité Et Moyen Âge (Slides)](antiquite-et-moyen-age)
 * [Armoire Abbaye Aubazine (PDF)](/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf "Armoire Abbaye Aubazine")
 * [Cabinet Bourguignon (PDF)](/uploads/histoire-de-l-art/cabinet-bourguignon.pdf "Cabinet Bourguignon")
