@@ -2,11 +2,11 @@
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
 # Sommaire
-* [Antiquité Et Moyen Âge (Slides)](antiquite-et-moyen-age)
+* [Antiquité Et Moyen Âge (Slides)](histoire-de-l-art/antiquite-et-moyen-age)
 * [Armoire Abbaye Aubazine (PDF)](/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf "Armoire Abbaye Aubazine")
 * [Cabinet Bourguignon (PDF)](/uploads/histoire-de-l-art/cabinet-bourguignon.pdf "Cabinet Bourguignon")
 * [Galerie Francois Premier (PDF)](/uploads/histoire-de-l-art/galerie-francois-premier.pdf "Galerie Francois Premier")
-* [Renaissance (Slides)](renaissance)
+* [Renaissance (Slides)](histoire-de-l-art/renaissance)
 
 
 
