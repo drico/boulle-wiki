@@ -2,44 +2,10 @@
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
 # Sommaire
-* [Antiquité Et Moyen Âge (Slides)](histoire-de-l-art/antiquite-et-moyen-age)
+* [Antiquité Et Moyen Âge (Slides)](https://docs.google.com/presentation/d/1FtUM6E7QCVqZ6B6ES6yztA8E1HrkTtD81H28z_poK6c/edit#slide=id.p1 "Antiquité Et Moyen-Âge")
 * [Armoire Abbaye Aubazine (PDF)](/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf "Armoire Abbaye Aubazine")
 * [Cabinet Bourguignon (PDF)](/uploads/histoire-de-l-art/cabinet-bourguignon.pdf "Cabinet Bourguignon")
 * [Galerie Francois Premier (PDF)](/uploads/histoire-de-l-art/galerie-francois-premier.pdf "Galerie Francois Premier")
-* [Renaissance (Slides)](histoire-de-l-art/renaissance)
-
-
-
-> A créer
-
-[Armoire Abbaye Aubazine](/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf "Armoire Abbaye Aubazine")
-
-[Cabinet Bourguignon](/uploads/histoire-de-l-art/cabinet-bourguignon.pdf "Cabinet Bourguignon")
-
-[Galerie Francois Premier](/uploads/histoire-de-l-art/galerie-francois-premier.pdf "Galerie Francois Premier")
-
-
-<object data="/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf" type="application/pdf" width="90%" height="700px" style="margin-left: 5%;">
-    <embed src="/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf">
-        <p>Ce navigateur ne supporte pas les PDF.  : <a href="/uploads/histoire-de-l-art/armoire-abbaye-aubazine.pdf">Télécharger "Armoire de l'abbaye d'Aubazine"</a>.</p>
-    </embed>
-</object>
-
-
-
-
-<object data="/uploads/histoire-de-l-art/cabinet-bourguignon.pdf" type="application/pdf" width="90%" height="700px" style="margin-left: 5%;">
-    <embed src="/uploads/histoire-de-l-art/cabinet-bourguignon.pdf">
-        <p>Ce navigateur ne supporte pas les PDF.  : <a href="/uploads/histoire-de-l-art/cabinet-bourguignon.pdf">Télécharger "Le cabinet Bourguignon"</a>.</p>
-    </embed>
-</object>
-
-
-
-<object data="/uploads/histoire-de-l-art/galerie-francois-premier.pdf" type="application/pdf" width="90%" height="700px" style="margin-left: 5%;">
-    <embed src="/uploads/histoire-de-l-art/galerie-francois-premier.pdf">
-        <p>Ce navigateur ne supporte pas les PDF.  : <a href="/uploads/histoire-de-l-art/galerie-francois-premier.pdf">Télécharger "Armoire de l'abbaye d'Aubazine"</a>.</p>
-    </embed>
-</object>
+* [Renaissance (Slides)](https://docs.google.com/presentation/d/1k5KWm_4uXRZuv8w3mxs15SB5kN7J0_EC0YRCqftsrvg/edit#slide=id.p1 "Renaissance")
 
 
