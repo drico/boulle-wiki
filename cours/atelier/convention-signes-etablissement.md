@@ -42,3 +42,5 @@ Présentation des différents signes d'établissement à travers un exemples de 
 
 # Pièces assemblées dans un bati
 ![Signe Etablissement Pieces Assemblees](/uploads/atelier/signe-etablissement-pieces-assemblees.jpg "Signe Etablissement Pieces Assemblees"){.align-center}
+
+
