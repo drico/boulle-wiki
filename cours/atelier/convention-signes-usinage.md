@@ -14,27 +14,44 @@
 
 # Moulure
 
+<center>
+
 |Moulure filante|Moulure arrêtée|
 |:---:|:---:|
 |![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante")|![Usinage Moulure Arretee](/uploads/atelier/usinage-moulure-arretee.jpg "Usinage Moulure Arretee")|
-{.align-center}
 
-# Moulure filante
-![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante"){.align-center}
-# Moulure arrêtée
-![Usinage Moulure Arretee](/uploads/atelier/usinage-moulure-arretee.jpg "Usinage Moulure Arretee"){.align-center}
-# Feuillure filante
-![Usinage Feuillure Filante](/uploads/atelier/usinage-feuillure-filante.jpg "Usinage Feuillure Filante"){.align-center}
-# Feuillure arrêtée
-![Usinage Feuillure Arretee](/uploads/atelier/usinage-feuillure-arretee.jpg "Usinage Feuillure Arretee"){.align-center}
-# Rainure filante
-![Usinage Rainure Filante](/uploads/atelier/usinage-rainure-filante.jpg "Usinage Rainure Filante"){.align-center}
-# Rainure arrêtée
-![Usinage Rainure Arretee](/uploads/atelier/usinage-rainure-arretee.jpg "Usinage Rainure Arretee"){.align-center}
-# Languette filante
-![Usinage Languette Filante](/uploads/atelier/usinage-languette-filante.jpg "Usinage Languette Filante"){.align-center}
-# Languette arrêtée
-![Usinage Languette Arretee](/uploads/atelier/usinage-languette-arretee.jpg "Usinage Languette Arretee"){.align-center}
+</center>
+
+# Feuillure
+
+<center>
+
+|Feuillure filante|Feuillure arrêtée|
+|:---:|:---:|
+|![Usinage Feuillure Filante](/uploads/atelier/usinage-feuillure-filante.jpg "Usinage Feuillure Filante")|![Usinage Feuillure Arretee](/uploads/atelier/usinage-feuillure-arretee.jpg "Usinage Feuillure Arretee")|
+
+</center>
+
+# Rainure
+
+<center>
+
+|Rainure filante|Rainure arrêtée|
+|:---:|:---:|
+|![Usinage Rainure Filante](/uploads/atelier/usinage-rainure-filante.jpg "Usinage Rainure Filante")|![Usinage Rainure Arretee](/uploads/atelier/usinage-rainure-arretee.jpg "Usinage Rainure Arretee")|
+
+</center>
+
+# Languette
+
+<center>
+
+|Languette filante|Languette arrêtée|
+|:---:|:---:|
+|![Usinage Languette Filante](/uploads/atelier/usinage-languette-filante.jpg "Usinage Languette Filante")|![Usinage Languette Arretee](/uploads/atelier/usinage-languette-arretee.jpg "Usinage Languette Arretee")|
+
+</center>
+
 # Perçage
 ![Usinage Percage](/uploads/atelier/usinage-percage.jpg "Usinage Percage"){.align-center}
 # Axe de symétrie
