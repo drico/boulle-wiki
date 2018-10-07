@@ -17,6 +17,7 @@
 * Conventions
 	* [Surfaces de référence](atelier/convention-surface-de-reference)
 	* [Signes d'établissement](atelier/convention-signes-etablissement)
+	* [Signes d'usinage](atelier/convention-signes-usinage)
 	* [Gamme d'usinage](atelier/convention-gamme-usinage)
 * Les travaux réalisés
 	* [Pièce martyre](atelier/travaux-martyre)
