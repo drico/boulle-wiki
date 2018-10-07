@@ -16,7 +16,7 @@
 
 |Moulure filante|Moulure arrêtée|
 |:---:|:---:|
-|![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante")|![Usinage Moulure Arretee](/uploads/atelier/usinage-moulure-arretee.jpg "Usinage Moulure Arretee")|
+|![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante")|![Usinage Moulure Arretee](/uploads/atelier/usinage-moulure-arretee.jpg "Usinage Moulure Arretee")|{.align-center}
 
 # Moulure filante
 ![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante"){.align-center}
