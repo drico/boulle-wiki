@@ -11,6 +11,13 @@
 ![Usinage Enfourchement](/uploads/atelier/usinage-enfourchement.jpg "Usinage Enfourchement"){.align-center}
 # Entaille
 ![Usinage Entaille](/uploads/atelier/usinage-entaille.jpg "Usinage Entaille"){.align-center}
+
+# Moulure
+
+|Moulure filante|Moulure arrêtée|
+|:---:|:---:|
+|![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante")|![Usinage Moulure Arretee](/uploads/atelier/usinage-moulure-arretee.jpg "Usinage Moulure Arretee")|
+
 # Moulure filante
 ![Usinage Moulure Filante](/uploads/atelier/usinage-moulure-filante.jpg "Usinage Moulure Filante"){.align-center}
 # Moulure arrêtée
