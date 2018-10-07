@@ -15,9 +15,9 @@
 	* [Tenon-Mortaise](atelier/technique-tenon-mortaise)
 	* [Affûtage](atelier/technique-affutage)
 * Conventions
-	* [Surfaces de référence](atelier/convention-surface-de-reference)
-	* [Signes d'établissement](atelier/convention-signes-etablissement)
-	* [Gamme d'usinage](atelier/convention-gamme-usinage)
+	* [Surfaces de référence](atelier/conventions/surface-de-reference)
+	* [Signes d'établissement](atelier/conventions/signes-etablissement)
+	* [Gamme d'usinage](atelier/conventions/gamme-usinage)
 * Les travaux réalisés
 	* [Pièce martyre](atelier/travaux-martyre)
 	* [Pièce d'entraînement au sciage](atelier/travaux-sciage)
