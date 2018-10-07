@@ -1,5 +1,4 @@
-
-<!-- TITLE: Convention Surface De Reference -->
+<!-- TITLE: Surfaces De Référence -->
 <!-- SUBTITLE: Les différentes surfaces et leurs propriétés -->
 
 Les surfaces de référence ont un rôle primordiale dans le corroyage des pièces, ainsi que dans la suite de l'usinage des pièces. Elles sont garante de la précision de l'objet final. Tous les différents travaux exécutés devront être réalisés en se basant sur les propriétés de ces surfaces, et uniquement ces surfaces.
