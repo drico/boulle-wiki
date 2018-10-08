@@ -20,6 +20,5 @@ Pour contribuer à ce Wiki, veuillez consulter le [Tutoriel](/tuto/page-wiki). I
   * [Histoire de l'art](cours/histoire-de-l-art)
   * [Technologie d'ébénisterie](cours/technologie-d-ebenisterie)
   * [Mode Conventionnel de Représentation](cours/mode-conventionnel-de-representation)
- 
-
+* [Référentiel du CAP Ébéniste](/uploads/referentiel-cap-ebeniste.pdf "Referentiel Cap Ebeniste")
 
