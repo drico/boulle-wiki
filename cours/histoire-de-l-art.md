@@ -10,4 +10,7 @@
 * Renaissance
 	* [Slides](https://docs.google.com/presentation/d/1k5KWm_4uXRZuv8w3mxs15SB5kN7J0_EC0YRCqftsrvg/edit?usp=sharing "Renaissance")
 
+* Autres ressources
+	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
+
 
