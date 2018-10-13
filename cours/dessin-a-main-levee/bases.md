@@ -27,7 +27,7 @@ Le choix de l'échelle dépendra des informations que l'on veut transmettre, du 
 Par exemple : 
 ![Exemple Echelle 1](/uploads/dessin-main-levee/exemple-echelle-1.png "Exemple Echelle 1") ![Exemple Echelle 2](/uploads/dessin-main-levee/exemple-echelle-2.png "Exemple Echelle 2")
 
-Sur l'image de gauche, on choisit de représenter l'ensemble de la scène tandis que sur l'image de droite, on décide de zoomer sur une partie de la scène et de laisser deviner la clémentine derrière (la deuxième n'apparait pas), le design de la cafetière est mis de côté, la photo met davantage en valeur le poivron.  
+Sur l'image de gauche, on choisit de représenter l'ensemble de la scène tandis que sur l'image de droite, on décide de zoomer sur une partie de la scène et de laisser deviner la clémentine derrière (la deuxième n'apparait pas), la cafetière n'est plus visible, la photo met davantage en valeur le poivron mais peut laisser deviner une scène plus dense autour de lui.   
 
 ## Etape 2 : Placer les masses
 
@@ -64,8 +64,8 @@ Remarque : il y a des objets que l'on ne peut pas détailler (car trop dense, co
 
 1. Jouer avec les ombres en analysant la scène :  d'où vient la source de lumière, qu'est-ce qui n'est pas éclairé ? qu'est-ce qui est face à la lumière ? 
 Il y a 2 types d'ombres : 
-* les ombres propres, celles sur l'objet, elles donnent du volume 
-* les ombres projettées, celles sur le sol, elle donnent une indication sur le placement de l'objet dans l'epace.
+a. les ombres propres, celles sur l'objet, elles donnent du volume 
+b. les ombres projettées, celles sur le sol, elle donnent une indication sur le placement de l'objet dans l'epace.
 
 
 # Conseils 
