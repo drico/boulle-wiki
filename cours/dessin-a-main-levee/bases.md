@@ -27,7 +27,7 @@ Le choix de l'échelle dépendra des informations que l'on veut transmettre, du 
 Par exemple : 
 ![Exemple Echelle 1](/uploads/dessin-main-levee/exemple-echelle-1.png "Exemple Echelle 1") ![Exemple Echelle 2](/uploads/dessin-main-levee/exemple-echelle-2.png "Exemple Echelle 2")
 
-Sur l'image de gauche, on choisit de représenter l'ensemble de la scène tandis que sur l'image de droite, on décide de zoomer sur une partie de la scène et de laisser deviner la clémentine derrière (la deuxième n'apparait pas), la cafetière n'est plus visible, la photo met davantage en valeur le poivron mais peut laisser deviner une scène plus dense autour de lui.   
+Sur la première image on choisit de représenter l'ensemble de la scène tandis que sur la deuxième, on décide de zoomer sur une partie de la scène et de laisser deviner la clémentine derrière (la deuxième n'apparait pas), la cafetière n'est plus visible, la photo met davantage en valeur le poivron mais peut laisser deviner une scène plus dense autour de lui.   
 
 ## Etape 2 : Placer les masses
 
