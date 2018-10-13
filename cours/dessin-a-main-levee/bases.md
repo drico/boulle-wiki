@@ -6,19 +6,19 @@
 ## Etape 1 : Cadrer ce que l'on veut dessiner 
 
 
-1. Choisir un angle de vue 
+**1. **Choisir un angle de vue 
 L'angle de vue est important pour comprendre la fonctionnalité d'un objet. La vue de face est à éviter car elle supprime la profondeur. 
 
-2. Définir le sujet et l'isoler. 
+**2. **Définir le sujet et l'isoler. 
 Pour ce faire, il est possible de s'aider de 2 équerres de cadrage (que l'on fabrique facilement en carton), ou de ses mains. 
 
 ![Description de l'image, si l'image ne s'affiche pas](https://consciencejoyeuse.files.wordpress.com/2017/11/cadrage-photographie.jpg  "Cadrer notre dessin à l'aide des mains")
 
-3. Définir le format.
+**3. **Définir le format.
 A3, A4 etc.
 Portrait (ou "à la française"), paysage (ou "à l'italienne)
 
-1. Définir son échelle
+**1. **Définir son échelle
 Le cadrage va naturellement définir l'échelle du dessin. 
 > Beaucoup de gens subissent l'échelle (Véronique Chappert, prof adorée du groupe 2)
 
