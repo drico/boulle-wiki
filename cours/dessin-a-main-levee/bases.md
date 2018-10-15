@@ -93,7 +93,7 @@ b. les ombres projettées, celles sur le sol, elle donnent une indication sur le
 <a name="conseils"/>
 
 # Conseils
-* Pour dessiner, il faut quitter l'image mentale qu'on a d'un objet et se fier à l'obeservation. Exemple de la chaise : on sait qu'elle a une profondeur d'assisse mais sur la scène que j'observe je ne la vois pas. 
+* Pour dessiner, il faut quitter l'image mentale qu'on a d'un objet et se fier à l'observation. Exemple de la chaise : on sait qu'elle a une profondeur d'assisse mais sur la scène que j'observe je ne la vois pas. 
 
 * S'éloigner de notre support de dessin, ne pas avoir le nez sur la feuille, le mieux est de dessiner sur un plan incliné, à l'aide d'un carton par exemple. 
 
