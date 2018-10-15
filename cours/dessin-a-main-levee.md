@@ -3,6 +3,7 @@
 
 > Cette page manque cruellement de contenu. N'hésitez pas à contribuer 🙂
 # Sommaire
+* [Dessin d'observation](dessin-a-main-levee/bases)
 * [Ressources annexes](#ressources-annexes)
 
 
