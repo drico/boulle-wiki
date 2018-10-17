@@ -1,4 +1,4 @@
-<!-- TITLE: Cours d'Histoire de l'Art -->
+[]<!-- TITLE: Cours d'Histoire de l'Art -->
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
 # Sommaire
@@ -13,4 +13,6 @@
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline")
+	* [Les styles de meubles](https://www.art-et-antiques.com/les-styles-de-meubles-article-5-0-36.html "Les styles de meubles")
+	* [Les Styles De Mobilier (PDF)](/uploads/histoire-de-l-art/les-styles-de-mobilier.pdf "Les Styles De Mobilier")
 
