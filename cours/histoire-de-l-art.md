@@ -12,5 +12,5 @@
 
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
-	* [Timeline des différentes périodes](/histoire-de-l-art/timeline")
+	* [Timeline des différentes périodes](histoire-de-l-art/timeline")
 
