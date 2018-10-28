@@ -1,4 +1,4 @@
-[]<!-- TITLE: Cours d'Histoire de l'Art -->
+<!-- TITLE: Cours d'Histoire de l'Art -->
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
 # Sommaire
