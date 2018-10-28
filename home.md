@@ -21,4 +21,8 @@ Pour contribuer à ce Wiki, veuillez consulter le [Tutoriel](/tuto/page-wiki). I
   * [Technologie d'ébénisterie](cours/technologie-d-ebenisterie)
   * [Mode Conventionnel de Représentation](cours/mode-conventionnel-de-representation)
 * [Référentiel du CAP Ébéniste](/uploads/referentiel-cap-ebeniste.pdf "Referentiel Cap Ebeniste")
+* Épreuve d'atelier 2017 en candidat libre
+	* [Sujet](/uploads/examen-2017-candidat-libre-sujet.pdf "Sujet")
+	* [Définition](/uploads/examen-2017-candidat-libre-definition.pdf "Définition")
+	* [Évaluation](/uploads/examen-2017-candidat-libre-evaluation.pdf "Évaluation")
 
