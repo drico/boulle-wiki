@@ -10,7 +10,11 @@
 	* [Galerie Francois Premier (PDF)](/uploads/histoire-de-l-art/galerie-francois-premier.pdf "Galerie Francois Premier")
 * Renaissance
 	* [Slides](https://docs.google.com/presentation/d/1k5KWm_4uXRZuv8w3mxs15SB5kN7J0_EC0YRCqftsrvg/edit?usp=sharing "Renaissance")
-
+* Louis XIV
+	* [Slides (Louis XIV)](https://docs.google.com/presentation/d/1s85dAqHlpNxXEj0y_yZbYXXbFwBKAD2mIFgqdHnh1Vc/edit?usp=sharing "Louis XIV")
+	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
+* Régence
+	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
