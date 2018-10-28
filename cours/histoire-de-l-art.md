@@ -10,12 +10,12 @@
 	* [Galerie Francois Premier (PDF)](/uploads/histoire-de-l-art/galerie-francois-premier.pdf "Galerie Francois Premier")
 * Renaissance
 	* [Slides](https://docs.google.com/presentation/d/1k5KWm_4uXRZuv8w3mxs15SB5kN7J0_EC0YRCqftsrvg/edit?usp=sharing "Renaissance")
-	* [Cabinet Renaissance 1580 Getty (Vidéo)](/uploads/histoire-de-l-art/cabinet-renaissance-1580-getty.mp4 "Cabinet Renaissance 1580 Getty")
+	* [🎦Cabinet Renaissance 1580 Getty](/uploads/histoire-de-l-art/cabinet-renaissance-1580-getty.mp4 "Cabinet Renaissance 1580 Getty")
 * Louis XIV
 	* [Slides (Louis XIV)](https://docs.google.com/presentation/d/1s85dAqHlpNxXEj0y_yZbYXXbFwBKAD2mIFgqdHnh1Vc/edit?usp=sharing "Louis XIV")
 	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
-	* [Armoire Boulle, Wallace Collection (Vidéo](/uploads/histoire-de-l-art/armoire-boulle-wallace-collection.mp4 "Armoire Boulle Wallace Collection")
-	* [Miroir de la petite nièce de Louis XIV, Boulle (Vidéo)](/uploads/histoire-de-l-art/miroir-de-la-petite-niece-de-louis-xiv.mp4 "Miroir De La Petite Niece De Louis Xiv")
+	* [🎦Armoire Boulle, Wallace Collection](/uploads/histoire-de-l-art/armoire-boulle-wallace-collection.mp4 "Armoire Boulle Wallace Collection")
+	* [🎦Miroir de la petite nièce de Louis XIV, Boulle](/uploads/histoire-de-l-art/miroir-de-la-petite-niece-de-louis-xiv.mp4 "Miroir De La Petite Niece De Louis Xiv")
 * Régence
 	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
 * Autres ressources
@@ -26,7 +26,7 @@
   * [La Fabrique Du Luxe, dossier de presse (PDF)](/uploads/histoire-de-l-art/la-fabrique-du-luxe-dossier-de-presse.pdf "La Fabrique Du Luxe Dossier De Presse")
   * [Gio Ponti, dossier de presse (PDF)](/uploads/histoire-de-l-art/gio-ponti-dossier-de-presse.pdf "Gio Ponti Dossier De Presse")
   * [Aux Sources Du Design (PDF)](/uploads/histoire-de-l-art/aux-sources-du-design.pdf "Aux Sources Du Design")
-  * [Cabinet de Augsburg, 1660, Musée de Chicago (Vidéo)](/uploads/histoire-de-l-art/the-augsburg-cabinet-chicago.mp4 "The Augsburg Cabinet Chicago")
-  * [The Endymion Cabinet V A Ebony Cabinet, 1630 (Vidéo)](/uploads/histoire-de-l-art/the-endymion-cabinet-v-a-ebony-cabinet.mp4 "The Endymion Cabinet V A Ebony Cabinet")
-  * [The Great Bed Of Ware Oak With Marquetry Panels Ca 1590 (Vidéo)](/uploads/histoire-de-l-art/the-great-bed-of-ware-oak-with-marquetry-panels-ca-1590.mp4 "The Great Bed Of Ware Oak With Marquetry Panels Ca 1590")
+  * [🎦Cabinet de Augsburg, 1660, Musée de Chicago](/uploads/histoire-de-l-art/the-augsburg-cabinet-chicago.mp4 "The Augsburg Cabinet Chicago")
+  * [🎦The Endymion Cabinet V A Ebony Cabinet, 1630](/uploads/histoire-de-l-art/the-endymion-cabinet-v-a-ebony-cabinet.mp4 "The Endymion Cabinet V A Ebony Cabinet")
+  * [🎦The Great Bed Of Ware Oak With Marquetry Panels Ca 1590](/uploads/histoire-de-l-art/the-great-bed-of-ware-oak-with-marquetry-panels-ca-1590.mp4 "The Great Bed Of Ware Oak With Marquetry Panels Ca 1590")
 
