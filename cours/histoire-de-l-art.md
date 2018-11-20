@@ -11,6 +11,8 @@
 * Renaissance
 	* [Slides](https://docs.google.com/presentation/d/1k5KWm_4uXRZuv8w3mxs15SB5kN7J0_EC0YRCqftsrvg/edit?usp=sharing "Renaissance")
 	* [🎦Cabinet Renaissance 1580 Getty](/uploads/histoire-de-l-art/cabinet-renaissance-1580-getty.mp4 "Cabinet Renaissance 1580 Getty")
+* Louis XIII
+	* [Slides (Louis XIII)](https://docs.google.com/presentation/d/1bVSe2VV2O2T_7DdVk6o6kjRMYYS4TH2ToExRXw7HU9w/edit?usp=sharing "Louis XIII")
 * Louis XIV
 	* [Slides (Louis XIV)](https://docs.google.com/presentation/d/1s85dAqHlpNxXEj0y_yZbYXXbFwBKAD2mIFgqdHnh1Vc/edit?usp=sharing "Louis XIV")
 	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
@@ -18,6 +20,8 @@
 	* [🎦Miroir de la petite nièce de Louis XIV, Boulle](/uploads/histoire-de-l-art/miroir-de-la-petite-niece-de-louis-xiv.mp4 "Miroir De La Petite Niece De Louis Xiv")
 * Régence
 	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
+	* [Slides Régence](https://docs.google.com/presentation/d/1BLXUdcTwInQobLlOIXMBefHuyDjK-qQjEwb73ZMPL78/edit?usp=sharing "Régence")
+	* [Slides Les marchands merciers, la fabrique du luxe](https://docs.google.com/presentation/d/1k7cHQYjqOE2H9-7_dIlx_qdi6aAxOKTdBSwICJDCOqE/edit?usp=sharing "Marchands merciers, la fabrique du luxe")
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
