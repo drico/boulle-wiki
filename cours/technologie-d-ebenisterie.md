@@ -107,20 +107,19 @@
 
 ## Rétractibilité
 
-> cours à venir...
+[📖Voir le cours](/uploads/technologie-d-ebenisterie/retractabilite.pdf "Retractabilite")
 
 <a name="particularite_des_assemblages"/>
 
 ## Particularité des assemblages
 
-> cours à venir...
+[📖Voir le cours](/uploads/technologie-d-ebenisterie/particularite-des-assemblages.pdf "Particularite Des Assemblages")
 
 <a name="equilibre_hygroscopique"/>
 
 ## Équilibre hygroscopique
 
-
-> cours à venir...
+[📖Voir le cours](/uploads/technologie-d-ebenisterie/equilibre-hygroscopique-des-bois.pdf "Equilibre Hygroscopique Des Bois")
 
 
 <a name="la_coupe_de_la_matiere_du_bois"/>
