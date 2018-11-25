@@ -100,9 +100,9 @@
 
 ## Exercice 2 : Projection orthogonale du dé
 
-|Sujet|Corrigé|
-|:------:|:------:|
-|![Sujet](/uploads/mode-conventionnel-de-representation/exercice-2-sujet.jpg)|![Corrigé](/uploads/mode-conventionnel-de-representation/exercice-2-corrige.jpg)|
+|Corrigé|
+|:------:|
+|![Corrigé](/uploads/mode-conventionnel-de-representation/exercice-2-corrige.jpg)|
 
 <a name="exercice_3"/>
 
