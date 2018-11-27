@@ -1,7 +1,7 @@
 <!-- TITLE: Cours d'Histoire de l'Art -->
 <!-- SUBTITLE: Page d'accueil des cours d'Histoire de l'Art -->
 
-# Sommaire
+# Ressources
 * Antiquité Et Moyen Âge
 	* [Slides](https://docs.google.com/presentation/d/1FtUM6E7QCVqZ6B6ES6yztA8E1HrkTtD81H28z_poK6c/edit?usp=sharing "Antiquité Et Moyen-Âge")
 	* [Antiquités : Guide des styles du mobilier Français](histoire-de-l-art/guide-des-styles-du-mobilier-francais)
@@ -22,6 +22,9 @@
 	* [Slides (Fin Louis XIV et Régence)](https://docs.google.com/presentation/d/1o0AnyHpQi1HDa34EFJgZvQGylF49cTWp3lYLdlGynxc/edit?usp=sharing "Fin Louis XIV et Régence")
 	* [Slides Régence](https://docs.google.com/presentation/d/1BLXUdcTwInQobLlOIXMBefHuyDjK-qQjEwb73ZMPL78/edit?usp=sharing "Régence")
 	* [Slides Les marchands merciers, la fabrique du luxe](https://docs.google.com/presentation/d/1k7cHQYjqOE2H9-7_dIlx_qdi6aAxOKTdBSwICJDCOqE/edit?usp=sharing "Marchands merciers, la fabrique du luxe")
+* Louis XV
+	* [Slides Louis XV](https://docs.google.com/presentation/d/1xWCOubM6wV45Wq_kJC59KiYTlsNRfOq9ErbujEfWfhs/edit?usp=sharing "Louis XV")
+	* [Slides Le Mobilier de port](https://docs.google.com/presentation/d/1T1dh7Bb9tDTx5YJkvVVhPSVshOYTEvCM--xf4VikNmQ/edit?usp=sharing "Le Mobilier de port")
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
