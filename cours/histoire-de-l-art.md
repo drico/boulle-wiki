@@ -25,6 +25,8 @@
 * Louis XV
 	* [Slides Louis XV](https://docs.google.com/presentation/d/1xWCOubM6wV45Wq_kJC59KiYTlsNRfOq9ErbujEfWfhs/edit?usp=sharing "Louis XV")
 	* [Slides Le Mobilier de port](https://docs.google.com/presentation/d/1T1dh7Bb9tDTx5YJkvVVhPSVshOYTEvCM--xf4VikNmQ/edit?usp=sharing "Le Mobilier de port")
+*	Transition
+	*	[Slides Transition](https://docs.google.com/presentation/d/1gdujSm7wuijqiHCWMeE6M7vipMUebx4pZ5uSKHwqNzo/edit?usp=sharing "Transition")
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
