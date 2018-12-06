@@ -5,6 +5,7 @@
 * Liste des cours
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
+	* [Cours 3 : Table, vues en coupe](#cours_3)
 
 <a name="cours_1"/>
 
@@ -23,6 +24,18 @@
 <div align="center">
     <iframe width="620" height="315"
         src="https://drive.google.com/file/d/1YeQHV0DCLd1DnQyPOcS1Wo2ECWDSdIwS/preview">
+    </iframe>
+</div>
+
+
+
+<a name="cours_3"/>
+
+# Cours 3 : Table, vues en coupe
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
     </iframe>
 </div>
 
