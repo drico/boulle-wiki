@@ -6,6 +6,8 @@
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
 	* [Cours 3 : Table, vues en coupe](#cours_3)
+	* [Cours 4 : Mise en page](#cours_4)
+	* [Cours 5 : Table avec tiroir, décomposition d'un objet 3D](#cours_5)
 
 <a name="cours_1"/>
 
@@ -36,6 +38,35 @@
 <div align="center">
     <iframe width="620" height="315"
         src="https://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
+    </iframe>
+</div>
+
+
+<a name="cours_4"/>
+
+# Cours 4 : Mise en page
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1PgW9ACPdeMod95Bt3mAmNgZv_bCjY80E/preview">
+    </iframe>
+</div>
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1W1zOiY6wVTkiqp81rQV8TxKJmN5kKMaB/preview">
+    </iframe>
+</div>
+
+
+
+<a name="cours_5"/>
+
+# Cours 5 : Table avec tiroir, décomposition d'un objet 3D
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
     </iframe>
 </div>
 
