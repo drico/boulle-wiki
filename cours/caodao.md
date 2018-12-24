@@ -2,8 +2,8 @@
 <!-- SUBTITLE: Page d'accueil des cours de CAO / DAO -->
 
 # Sommaire
-* [Gabari de Boulle (gabari A)](#gabarit)
-  * [Installer le gabarit (Windows)](#gabari_installer)
+* [Gabarit de Boulle (gabarit A)](#gabarit)
+  * [Installer le gabarit (Windows)](#gabarit_installer)
   * [Configurer Autocad pour utiliser le gabarit](#gabarit_configurer)
 * [Liste des cours](#cours)
 	* [Cours 1 : Trusquin](#cours_1)
