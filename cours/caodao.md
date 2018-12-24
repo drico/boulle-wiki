@@ -2,16 +2,58 @@
 <!-- SUBTITLE: Page d'accueil des cours de CAO / DAO -->
 
 # Sommaire
-* Liste des cours
+* [Gabari de Boulle (gabari A)](#gabari)
+  * [Installer le gabari](#gabari_installer)
+  * [Configurer Autocad pour utiliser le gabari](#gabari_configurer)
+* [Liste des cours](#cours)
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
 	* [Cours 3 : Table, vues en coupe](#cours_3)
 	* [Cours 4 : Mise en page](#cours_4)
 	* [Cours 5 : Table avec tiroir, décomposition d'un objet 3D](#cours_5)
 
+<a name="gabari"/>
+
+# Gabari de Boulle (gabari A)
+
+Ces tutoriels vous permettrons d'installer et de configurer le gabari de l'école Boulle sur vos ordinateurs.
+Pour cela, vous devez tout d'abord télécharger les fichiers suivants : 
+
+* [Gabari : A.dwt](/uploads/caodao/a.dwt "A.dwt")
+* [Table de tracé A0 : PB A0.ctb](/uploads/caodao/pb-a-0.ctb "PB A0.ctb")
+* [Table de tracé A4 A3 : PB A4 A3.ctb](/uploads/caodao/pb-a-4-a-3.ctb "PB A4 A3.ctb")
+
+
+<a name="gabari_installer"/>
+
+## Installer le gabari
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
+    </iframe>
+</div>
+
+
+<a name="gabari_configurer"/>
+
+## Configurer Autocad pour utiliser le gabari
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1wh_47Kh4h1shccMnPa-rL9iXtk10EUOE/preview">
+    </iframe>
+</div>
+
+
+
+<a name="cours"/>
+
+# Liste des cours
+
 <a name="cours_1"/>
 
-# Cours 1 : Trusquin
+## Cours 1 : Trusquin
 
 <div align="center">
     <iframe width="620" height="315"
@@ -21,7 +63,7 @@
 
 <a name="cours_2"/>
 
-# Cours 2 : Table avec frisage
+## Cours 2 : Table avec frisage
 
 <div align="center">
     <iframe width="620" height="315"
@@ -33,7 +75,7 @@
 
 <a name="cours_3"/>
 
-# Cours 3 : Table, vues en coupe
+## Cours 3 : Table, vues en coupe
 
 <div align="center">
     <iframe width="620" height="315"
@@ -44,7 +86,7 @@
 
 <a name="cours_4"/>
 
-# Cours 4 : Mise en page
+## Cours 4 : Mise en page
 
 <div align="center">
     <iframe width="620" height="315"
@@ -62,7 +104,7 @@
 
 <a name="cours_5"/>
 
-# Cours 5 : Table avec tiroir, décomposition d'un objet 3D
+## Cours 5 : Table avec tiroir, décomposition d'un objet 3D
 
 <div align="center">
     <iframe width="620" height="315"
