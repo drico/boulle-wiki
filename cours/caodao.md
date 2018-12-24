@@ -3,8 +3,8 @@
 
 # Sommaire
 * [Gabari de Boulle (gabari A)](#gabari)
-  * [Installer le gabari](#gabari_installer)
-  * [Configurer Autocad pour utiliser le gabari](#gabari_configurer)
+  * [Installer le gabari (Windows)](#gabari_installer)
+  * [Configurer Autocad pour utiliser le gabari (Windows)](#gabari_configurer)
 * [Liste des cours](#cours)
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
@@ -23,10 +23,12 @@ Pour cela, vous devez tout d'abord télécharger les fichiers suivants :
 * [Table de tracé A0 : PB A0.ctb](/uploads/caodao/pb-a-0.ctb "PB A0.ctb")
 * [Table de tracé A4 A3 : PB A4 A3.ctb](/uploads/caodao/pb-a-4-a-3.ctb "PB A4 A3.ctb")
 
+Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et configurer le gabari !
+
 
 <a name="gabari_installer"/>
 
-## Installer le gabari
+## Installer le gabari (Windows)
 
 <div align="center">
     <iframe width="620" height="315"
@@ -37,7 +39,7 @@ Pour cela, vous devez tout d'abord télécharger les fichiers suivants :
 
 <a name="gabari_configurer"/>
 
-## Configurer Autocad pour utiliser le gabari
+## Configurer Autocad pour utiliser le gabari (Windows)
 
 <div align="center">
     <iframe width="620" height="315"
