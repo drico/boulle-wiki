@@ -2,9 +2,9 @@
 <!-- SUBTITLE: Page d'accueil des cours de CAO / DAO -->
 
 # Sommaire
-* [Gabari de Boulle (gabari A)](#gabari)
-  * [Installer le gabari (Windows)](#gabari_installer)
-  * [Configurer Autocad pour utiliser le gabari](#gabari_configurer)
+* [Gabari de Boulle (gabari A)](#gabarit)
+  * [Installer le gabarit (Windows)](#gabari_installer)
+  * [Configurer Autocad pour utiliser le gabarit](#gabarit_configurer)
 * [Liste des cours](#cours)
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
@@ -12,23 +12,23 @@
 	* [Cours 4 : Mise en page](#cours_4)
 	* [Cours 5 : Table avec tiroir, décomposition d'un objet 3D](#cours_5)
 
-<a name="gabari"/>
+<a name="gabarit"/>
 
-# Gabari de Boulle (gabari A)
+# Gabarit de Boulle (gabarit A)
 
-Ces tutoriels vous permettrons d'installer et de configurer le gabari de l'école Boulle sur vos ordinateurs.
+Ces tutoriels vous permettrons d'installer et de configurer le gabarit de l'école Boulle sur vos ordinateurs.
 Pour cela, vous devez tout d'abord télécharger les fichiers suivants : 
 
-* [Gabari : A.dwt](/uploads/caodao/a.dwt "A.dwt")
+* [Gabarit : A.dwt](/uploads/caodao/a.dwt "A.dwt")
 * [Table de tracé A0 : PB A0.ctb](/uploads/caodao/pb-a-0.ctb "PB A0.ctb")
 * [Table de tracé A4 A3 : PB A4 A3.ctb](/uploads/caodao/pb-a-4-a-3.ctb "PB A4 A3.ctb")
 
-Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et configurer le gabari !
+Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et configurer le gabarit !
 
 
-<a name="gabari_installer"/>
+<a name="gabarit_installer"/>
 
-## Installer le gabari (Windows)
+## Installer le gabarit (Windows)
 
 <div align="center">
     <iframe width="620" height="315"
@@ -37,9 +37,9 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 </div>
 
 
-<a name="gabari_configurer"/>
+<a name="gabarit_configurer"/>
 
-## Configurer Autocad pour utiliser le gabari
+## Configurer Autocad pour utiliser le gabarit
 
 <div align="center">
     <iframe width="620" height="315"
