@@ -4,7 +4,7 @@
 # Sommaire
 * [Gabari de Boulle (gabari A)](#gabari)
   * [Installer le gabari (Windows)](#gabari_installer)
-  * [Configurer Autocad pour utiliser le gabari (Windows)](#gabari_configurer)
+  * [Configurer Autocad pour utiliser le gabari](#gabari_configurer)
 * [Liste des cours](#cours)
 	* [Cours 1 : Trusquin](#cours_1)
 	* [Cours 2 : Table avec frisage](#cours_2)
@@ -39,7 +39,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <a name="gabari_configurer"/>
 
-## Configurer Autocad pour utiliser le gabari (Windows)
+## Configurer Autocad pour utiliser le gabari
 
 <div align="center">
     <iframe width="620" height="315"
