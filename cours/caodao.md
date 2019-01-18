@@ -11,6 +11,7 @@
 	* [Cours 3 : Table, vues en coupe](#cours_3)
 	* [Cours 4 : Mise en page](#cours_4)
 	* [Cours 5 : Table avec tiroir, décomposition d'un objet 3D](#cours_5)
+	* [Cours 6 : Un peu de marqueterie](#cours_6)
 
 <a name="gabarit"/>
 
@@ -111,6 +112,17 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 <div align="center">
     <iframe width="620" height="315"
         src="https://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
+    </iframe>
+</div>
+
+
+<a name="cours_6"/>
+
+## Cours 6 : Un peu de marqueterie
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6/preview">
     </iframe>
 </div>
 
