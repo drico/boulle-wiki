@@ -42,4 +42,5 @@
   * [🎦The Endymion Cabinet V A Ebony Cabinet, 1630](/uploads/histoire-de-l-art/the-endymion-cabinet-v-a-ebony-cabinet.mp4 "The Endymion Cabinet V A Ebony Cabinet")
   * [🎦The Great Bed Of Ware Oak With Marquetry Panels Ca 1590](/uploads/histoire-de-l-art/the-great-bed-of-ware-oak-with-marquetry-panels-ca-1590.mp4 "The Great Bed Of Ware Oak With Marquetry Panels Ca 1590")
   * [Bronzier Pierre Gouthiere (PDF)](/uploads/histoire-de-l-art/bronzier-pierre-gouthiere.pdf "Bronzier Pierre Gouthiere")
+  * [Espagnolettes](https://docs.google.com/document/d/1D3fDTib4YhCE2qHUF005XWHdNx3PHa7TWtHm8D0mxck/edit?usp=sharing "Espagnolettes")
 
