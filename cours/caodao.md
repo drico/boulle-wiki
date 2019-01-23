@@ -35,7 +35,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
+        src="https://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
     </iframe>
 </div>
 
