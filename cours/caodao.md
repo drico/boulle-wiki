@@ -25,8 +25,6 @@ Pour cela, vous devez tout d'abord télécharger les fichiers suivants :
 * [Table de tracé A4 A3 : PB A4 A3.ctb](/uploads/caodao/pb-a-4-a-3.ctb "PB A4 A3.ctb")
 
 Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et configurer le gabarit !
-        src="https://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
-
 
 
 <a name="gabarit_installer"/>
@@ -46,7 +44,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1wh_47Kh4h1shccMnPa-rL9iXtk10EUOE/preview">
+        src="https://drive.google.com/file/d/1wh_47Kh4h1shccMnPa-rL9iXtk10EUOE/preview">
     </iframe>
 </div>
 
@@ -62,7 +60,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1AMiGmk2TbI-Y7sSWg_0lPGJRL6XJ7_9Z/preview">
+        src="https://drive.google.com/file/d/1AMiGmk2TbI-Y7sSWg_0lPGJRL6XJ7_9Z/preview">
     </iframe>
 </div>
 
@@ -72,7 +70,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1YeQHV0DCLd1DnQyPOcS1Wo2ECWDSdIwS/preview">
+        src="https://drive.google.com/file/d/1YeQHV0DCLd1DnQyPOcS1Wo2ECWDSdIwS/preview">
     </iframe>
 </div>
 
@@ -84,7 +82,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
+        src="https://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
     </iframe>
 </div>
 
@@ -95,13 +93,13 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1PgW9ACPdeMod95Bt3mAmNgZv_bCjY80E/preview">
+        src="https://drive.google.com/file/d/1PgW9ACPdeMod95Bt3mAmNgZv_bCjY80E/preview">
     </iframe>
 </div>
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1W1zOiY6wVTkiqp81rQV8TxKJmN5kKMaB/preview">
+        src="https://drive.google.com/file/d/1W1zOiY6wVTkiqp81rQV8TxKJmN5kKMaB/preview">
     </iframe>
 </div>
 
@@ -113,7 +111,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
+        src="https://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
     </iframe>
 </div>
 
@@ -124,7 +122,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="http://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6/preview">
+        src="https://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6/preview">
     </iframe>
 </div>
 
