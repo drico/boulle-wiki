@@ -25,7 +25,7 @@ Pour cela, vous devez tout d'abord télécharger les fichiers suivants :
 * [Table de tracé A4 A3 : PB A4 A3.ctb](/uploads/caodao/pb-a-4-a-3.ctb "PB A4 A3.ctb")
 
 Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et configurer le gabarit !
-        src="http://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
+        src="https://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
 
 
 
