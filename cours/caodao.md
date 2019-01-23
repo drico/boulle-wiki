@@ -33,7 +33,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
+        src="http://drive.google.com/file/d/1w29Bsv9WY1Fi50TrX02B23wBocwjhR5R/preview">
     </iframe>
 </div>
 
@@ -44,7 +44,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1wh_47Kh4h1shccMnPa-rL9iXtk10EUOE/preview">
+        src="http://drive.google.com/file/d/1wh_47Kh4h1shccMnPa-rL9iXtk10EUOE/preview">
     </iframe>
 </div>
 
@@ -60,7 +60,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1AMiGmk2TbI-Y7sSWg_0lPGJRL6XJ7_9Z/preview">
+        src="http://drive.google.com/file/d/1AMiGmk2TbI-Y7sSWg_0lPGJRL6XJ7_9Z/preview">
     </iframe>
 </div>
 
@@ -70,7 +70,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1YeQHV0DCLd1DnQyPOcS1Wo2ECWDSdIwS/preview">
+        src="http://drive.google.com/file/d/1YeQHV0DCLd1DnQyPOcS1Wo2ECWDSdIwS/preview">
     </iframe>
 </div>
 
@@ -82,7 +82,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
+        src="http://drive.google.com/file/d/148ZdRFl6hFkxQnLZ5XVrGwo53Z4WoPRS/preview">
     </iframe>
 </div>
 
@@ -93,13 +93,13 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1PgW9ACPdeMod95Bt3mAmNgZv_bCjY80E/preview">
+        src="http://drive.google.com/file/d/1PgW9ACPdeMod95Bt3mAmNgZv_bCjY80E/preview">
     </iframe>
 </div>
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1W1zOiY6wVTkiqp81rQV8TxKJmN5kKMaB/preview">
+        src="http://drive.google.com/file/d/1W1zOiY6wVTkiqp81rQV8TxKJmN5kKMaB/preview">
     </iframe>
 </div>
 
@@ -111,7 +111,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
+        src="http://drive.google.com/file/d/1KCCq8WAwncFJEJdqzShIonL8UhexnsUn/preview">
     </iframe>
 </div>
 
@@ -122,7 +122,7 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6/preview">
+        src="http://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6/preview">
     </iframe>
 </div>
 
