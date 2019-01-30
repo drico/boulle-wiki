@@ -30,6 +30,7 @@
 * Louis XVI
 	* [Slides Louis XVI](https://docs.google.com/presentation/d/1cwxF2xwbJNOqsTDyNPQnO9Kn-pjUeCKj8sDmp4rk_Qg/edit?usp=sharing "Louis XVI")
 	* [🎦Pierre Gouthiere](/uploads/histoire-de-l-art/pierre-gouthiere.mp4 "Pierre Gouthiere, ciseleur-doreur du roi")
+	* [🎦Lannuier](/uploads/histoire-de-l-art/lannuier.mp4 "Lannuier")
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
