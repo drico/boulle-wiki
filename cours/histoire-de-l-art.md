@@ -31,6 +31,20 @@
 	* [Slides Louis XVI](https://docs.google.com/presentation/d/1cwxF2xwbJNOqsTDyNPQnO9Kn-pjUeCKj8sDmp4rk_Qg/edit?usp=sharing "Louis XVI")
 	* [🎦Pierre Gouthiere](/uploads/histoire-de-l-art/pierre-gouthiere.mp4 "Pierre Gouthiere, ciseleur-doreur du roi")
 	* [🎦Lannuier](/uploads/histoire-de-l-art/lannuier.mp4 "Lannuier")
+
+* Directoire et Empire
+	* [Slides Directoire et Empire](https://docs.google.com/presentation/d/1ohMROBWojH3Kihlqw7KqkNxz9eX3iIX2Cw7CIhxUBV0/edit?usp=sharing "Directoire et Empire")
+* Restauration et Louis Philippe
+	* [Slides Restauration et Louis Philippe](https://docs.google.com/presentation/d/1rCxLSU4HyeZk99Rp8XASO5XDjziK32YYKmsJ4J03DKQ/edit?usp=sharing "Restauration et Louis Philippe")
+* Design
+	* [Slides Design partie 1](https://docs.google.com/presentation/d/1UH336t6InadEVw16mIc4DbsTTGVAlQMIvLCZYTBowcM/edit?usp=sharing "Design partie 1")
+	* [Slides Design partie 2](https://docs.google.com/presentation/d/1tjoTfK1wQE28woj3WbP6y1HBMFsRcgQgElIB39C080U/edit?usp=sharing "Design partie 2")
+	* [🎦Hill House 1902](/uploads/histoire-de-l-art/hill-house-1902.mp4 "Hill House 1902")
+	* [🎦Gamble House 1908](/uploads/histoire-de-l-art/gamble-house-1908.mp4 "Gamble House 1908")
+	* [🎦Chateau Art Nouveau Cantal](/uploads/histoire-de-l-art/chateau-art-nouveau-cantal.mp4 "Chateau Art Nouveau Cantal")
+
+
+
 * Autres ressources
 	* [Étude du vernis : Redécouverte du vernis Roubo pour le mobilier, de la théorie à la Pratique (PDF)](/uploads/dessin-main-levee/etude-vernis-18-e.pdf "Etude Vernis 18 E")
 	* [Timeline des différentes périodes](histoire-de-l-art/timeline)
