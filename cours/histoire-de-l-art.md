@@ -42,6 +42,7 @@
 	* [🎦Hill House 1902](/uploads/histoire-de-l-art/hill-house-1902.mp4 "Hill House 1902")
 	* [🎦Gamble House 1908](/uploads/histoire-de-l-art/gamble-house-1908.mp4 "Gamble House 1908")
 	* [🎦Chateau Art Nouveau Cantal](/uploads/histoire-de-l-art/chateau-art-nouveau-cantal.mp4 "Chateau Art Nouveau Cantal")
+	* [Slides Design partie 3](https://docs.google.com/presentation/d/1eCt_vsL1vHbIGG9u4KFNf0lOhvyapWqshOtyDcwbkwE/edit?usp=sharing "Design partie 3")
 	* [Slides Design partie 4](https://docs.google.com/presentation/d/1tGTtDsRfogpw8y8mW8EsAs_5D-_0QEnldjeIqys1v5Y/edit?usp=sharing "Design partie 4")
 	* [Slides Design partie 5](https://docs.google.com/presentation/d/1tJML00vd6wR8diYQKg1qtLXP7vkRrTNZ15kVq_lOJmc/edit?usp=sharing "Design partie 5")
 	* [Slides Design partie 6](https://docs.google.com/presentation/d/1ENS9Uh7in2eLeu3LxLg0Z_54RsG6NCMd7N6kHoq4wyY/edit?usp=sharing "Design partie 6")
