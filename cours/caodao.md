@@ -12,6 +12,7 @@
 	* [Cours 4 : Mise en page](#cours_4)
 	* [Cours 5 : Table avec tiroir, décomposition d'un objet 3D](#cours_5)
 	* [Cours 6 : Un peu de marqueterie](#cours_6)
+	* [Cours dernier : Élements de 3D](#cours_3d)
 
 <a name="gabarit"/>
 
@@ -142,3 +143,15 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 </div>
 
 [🎦Lien vers la vidéo](https://drive.google.com/file/d/1KxrtKU1q_YOYH3kWb-EuCqcxc8uEvez6)
+
+<a name="cours_3d"/>
+
+## Cours dernier : Élements de 3D
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAACW/preview">
+    </iframe>
+</div>
+
+[🎦Lien vers la vidéo](https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAACW)
