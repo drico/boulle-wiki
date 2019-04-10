@@ -150,8 +150,8 @@ Il vous suffit ensuite de suivre les deux vidéos suivantes pour installer et co
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAACW/preview">
+        src="https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAAC/preview">
     </iframe>
 </div>
 
-[🎦Lien vers la vidéo](https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAACW)
+[🎦Lien vers la vidéo](https://drive.google.com/file/d/1iUwJawTdNnyfNIHahTW6kacp5T3GcAAC)
